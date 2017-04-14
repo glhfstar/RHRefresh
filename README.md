@@ -1,6 +1,6 @@
 # RHRefresh
 
-swift 上拉刷新和下拉加载，简单易用。
+swift 下拉刷新和上拉加载，简单易用。
 
 下拉刷新用法
 ``` swift
