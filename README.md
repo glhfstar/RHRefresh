@@ -18,5 +18,5 @@ swift 上拉刷新和下拉加载，简单易用。
   footer.refreshHandler = {
     doSomeThing()
     footer.endRefresh()
-   }
+  }
 ``` 
