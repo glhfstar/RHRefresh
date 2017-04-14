@@ -20,3 +20,6 @@ swift 上拉刷新和下拉加载，简单易用。
     footer.endRefresh()
   }
 ``` 
+
+![YiRefresh](https://github.com/glhfstar/RHRefresh/blob/master/down.gif)
+![YiRefresh](https://github.com/glhfstar/RHRefresh/blob/master/up.gif)
